@@ -1,0 +1,5 @@
+{
+  "name": "CricScore Live",
+  "description": "A lightweight, real-time cricket scoring application with ball-by-ball commentary and wagon wheel analysis.",
+  "requestFramePermissions": []
+}
